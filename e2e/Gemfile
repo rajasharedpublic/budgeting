@@ -7,4 +7,4 @@ source "http://rubygems.org"
 gem "selenium-webdriver", "3.4.1"
 #gem "selenium-webdriver", "3.14.0"
 gem 'test-unit' # Assertion
-gem "ffi", "1.9.18" # If in case some interdependent file gives error
+gem "ffi", "1.9.24" # If in case some interdependent file gives error
