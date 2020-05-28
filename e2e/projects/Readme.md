@@ -4,7 +4,7 @@ To Run the testcase, on terminal, Enter below
 
 bundle install --path vendor/bundle
 brew install geckodriver
-
+run support/my_test.rb
 
 /*
 Here is the task
