@@ -23,7 +23,8 @@ Index Table
 Brief introduction of the test strategies, process, workflow and methodologies used for the project
 
 1.1 Scope
-1.1.1In Scope
+
+1.1.1 In Scope
 
 Scope defines the features, functional or non-functional requirements of the software that will be tested 
 Functional Cases 
@@ -84,18 +85,21 @@ expected
 
 
 
-1.1.2Out of Scope
-
+1.1.2 Out of Scope
 Out Of Scope defines the features, functional or non-functional requirements of the software that will NOT be tested 
-1.2Quality Objective
+
+1.2 Quality Objective
 
 Here make a mention of the overall objevtie that you plan to achive withou your testing
 
 Some objectives of your testing project could be
 
 Ensure the Application Under Test conforms to functional and non-functional requirements
+
 Ensure the AUT meets the quality specifications defined by the client
+
 Bugs/issues are identified and fixed before go live
+
 
 1.3 Roles and Responsibilities 
 Detail description of the Roles and responsibilities of different team members like
