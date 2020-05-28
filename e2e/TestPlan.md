@@ -28,53 +28,61 @@ Brief introduction of the test strategies, process, workflow and methodologies u
 Scope defines the features, functional or non-functional requirements of the software that will be tested 
 Functional Cases 
 •	user should be able to add record successfully.
+
 •	validate the recently added record is displaying in the catogory 
+
 •	Once the user is able to update record successfully, validate the money Amount displayed in formatted currently.
+
 •	Once the user is able to delete record successfully. Validate deleted record and validate the money in deducted from Total inflow/outflow.
+
 •	Verify user is able to perform to cancel button without any records.
+
 •	validate amount filed.
-•	Validate that Total inflow - Total outflow should be calculated correctly for working balance
+
+•	Validate that Total inflow - Total outflow should be calculated correctly for working balance.
+
 •	Validate that reports are reflecting calculated with respect to inflow and outflow
+
 •	Validate all the category total are reflecting correctly.
+
 Similarly we can use other functional case 
+
 
 Integration test 
 User added records – validate working balance -> chooses reports and validate inflow/outflow and spending by catogory
-——————————————————————————————————————— 
 
 Security test scenario 
 Testing network call not having incentive data.
-——————————————————————————————————————— 
+
 UI test 
 All element are clickable or responding as per business logic 
-——————————————————————————————————————— 
+
 DB test 
 If any DB test are test, to make sure all Create, Read , update, delete data are 
 working in sync with relational/non-relational database 
-——————————————————————————————————————————— 
+
 Localization test 
 With different language like Spanish, German, Korean, etc are translating while 
 choosing the language 
-——————————————————————————————————————— 
+
 Performance test 
 Test using any performance testing tool to check large no# of concurrent users 
 are accessing at same time without any lag. 
 Benchmark test, baseline test, burst test, stress testing, load testing- these are we 
 can test and find out metrics 
-——————————————————————————————————————— 
+
 InCognito test 
 Validate Cookies and session are working as expected 
-——————————————————————————————————————— 
+
 Device compatibility 
 Validation with different device like Mobile(iOS, android, tablet, PC) are working as 
 expected 
-——————————————————————————————————————— 
+
 Different browser test 
 Validation with different device like chrome, Firefox, safari, Edge are working as 
 expected 
-——————————————————————————————————————— 
 
-	
+
 
 1.1.2Out of Scope
 
